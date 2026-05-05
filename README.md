@@ -173,3 +173,4 @@ frontend/
 - **Language Detection**: Automatic language display
 - **Theme Toggle**: Dark/light mode
 - **Responsive**: Mobile and desktop support# Union-Budget-RAG-Frontend
+# Union-Budget-RAG-Backend
