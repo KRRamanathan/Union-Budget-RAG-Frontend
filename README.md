@@ -172,4 +172,4 @@ frontend/
 - **Voice Output**: Text-to-speech for responses
 - **Language Detection**: Automatic language display
 - **Theme Toggle**: Dark/light mode
-- **Responsive**: Mobile and desktop support
+- **Responsive**: Mobile and desktop support# Union-Budget-RAG-Frontend
